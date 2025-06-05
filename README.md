@@ -43,5 +43,5 @@
 
 ### 📊 GitHub Stats
 
-![Nikhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=savveeemeeee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savveeemeeee&layout=compact&theme=tokyonight)
+![Nikhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=n7khita-r&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n7khita-r&layout=compact&theme=tokyonight)
